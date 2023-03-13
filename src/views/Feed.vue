@@ -1,5 +1,5 @@
 <template>
-  <div><h1>FeEEDFeEEDFeEEDFeEED!</h1></div>
+  <div><h1>FeEEDFeEEDFe</h1></div>
 </template>
 
 <script>
